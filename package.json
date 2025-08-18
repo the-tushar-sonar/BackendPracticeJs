@@ -1,0 +1,30 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "This is practice project with Javascript/Node.js Backend",
+  "keywords": [
+    "Javascript",
+    "Backend",
+    "Practice",
+    "Project",
+    "Learning"
+  ],
+  "homepage": "https://github.com/the-tushar-sonar/BackendPracticeJs#readme",
+  "bugs": {
+    "url": "https://github.com/the-tushar-sonar/BackendPracticeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-tushar-sonar/BackendPracticeJs.git"
+  },
+  "license": "ISC",
+  "author": "Tushar Sonar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
